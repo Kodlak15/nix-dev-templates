@@ -20,7 +20,6 @@
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [
             beamMinimal27Packages.elixir
-            gh
           ];
 
           shellHook = ''
