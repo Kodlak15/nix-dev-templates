@@ -5,6 +5,7 @@
     templates = {
       example.path = ./example;
       go.path = ./go;
+      jupyter.path = ./jupyter;
       phoenix.path = ./phoenix;
     };
   };
