@@ -7,6 +7,7 @@
       go.path = ./go;
       jupyter.path = ./jupyter;
       phoenix.path = ./phoenix;
+      sveltekit.path = ./sveltekit;
     };
   };
 }
